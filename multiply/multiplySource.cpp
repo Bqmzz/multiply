@@ -20,6 +20,6 @@ void multiply(int number)
 	cout << "Sum is " << sum;
 }
 int main() {
-	int number = 10;
+	int number = 20;
 	multiply(number);
 }
